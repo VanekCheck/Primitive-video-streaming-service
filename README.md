@@ -1,4 +1,4 @@
-# Primitive-video-streaming-service
+# Primitive video streaming service
 
 ### Incora Coding Camp test task 
 
